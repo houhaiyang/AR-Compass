@@ -1,0 +1,21 @@
+pandas
+numpy
+tensorflow
+tensorboard
+tensorboardx
+scikit-learn
+matplotlib
+torchvision
+keras
+tqdm
+biopython
+
+# torch==1.6.0
+# networkx==2.6.3
+# scipy==1.4.1
+
+
+
+
+
+
