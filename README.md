@@ -33,6 +33,12 @@ Refer to requirements.txt
 
 Pay attention to the installation of scikit-learn package.
 
+## Get models
+Please get the complete models and test dataset from the following link.
+
+```text
+https://pan.baidu.com/s/1_rnhuvaoUzl0VLPV0sKaQA?pwd=rxzz 
+```
 
 ## Use examples
 
